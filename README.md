@@ -10,7 +10,7 @@ Built with HTML, CSS, and React.
 Screenshots of your app and/or a link to your live demo
 
 ## Installation
-Clone the repository:              git clone <repository-url>
+Clone the repository:              [git clone <repository-url>](https://github.com/Soumyajit-siliguri/Alpaca-image-generator-website.git)
 Navigate to the project directory: cd alpaca-image-generator-website
 Install dependencies:              npm install
 Start the development server:      npm start
