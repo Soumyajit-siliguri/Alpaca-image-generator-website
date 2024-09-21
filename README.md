@@ -7,7 +7,7 @@ Find the project requirements here: [Alpaca image generator website](https://www
 Built with HTML, CSS, and React.
 
 ## Screenshots and demo
-Screenshots of your app and/or a link to your live demo
+live app on : https://alpacaavataor.netlify.app/
 
 ## Installation
 Clone the repository:              [git clone <repository-url>](https://github.com/Soumyajit-siliguri/Alpaca-image-generator-website.git)
